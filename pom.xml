@@ -187,6 +187,10 @@
       <url>https://oss.sonatype.org/content/groups/public/</url>
     </repository>
     <repository>
+      <id>camunda</id>
+      <url>https://app.camunda.com/nexus/content/groups/public/</url>
+    </repository>
+    <repository>
       <id>jitpack</id>
       <url>https://jitpack.io</url>
     </repository>
